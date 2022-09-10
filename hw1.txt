@@ -1,0 +1,24 @@
+0)Finish all w3schools mySql exercises!!
+https://www.w3schools.com/mysql/exercise.asp
+
+Write queries that do next logic:
+
+1) Show the amount of customers per state (customers table). Show the amount column as "Count" and show state column
+
+*tip: use GROUP BY state
+
+2) modify previous query to get count per state and city. Also show the city column
+
+*tip: GROUP BY state, city
+
+3) modify previous query to get only those who have count more than 1 
+
+*tip: use HAVING
+
+4)join next tables using inner join:
+customers with payments,
+offices with employees,
+products with productlines
+
+
+good luck
